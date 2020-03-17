@@ -7,5 +7,5 @@ struct Words{
 
 int mian(void)
 {
-  printf("this is a test for github\n");
+  printf("this is a test for github!\n");
 }
